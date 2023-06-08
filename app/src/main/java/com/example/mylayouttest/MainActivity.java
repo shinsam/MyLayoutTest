@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         main_btn2 = findViewById(R.id.main_btn2);
         main_btn3 = findViewById(R.id.main_btn3);
 
-        //다음시간에 할일 : 수행연습 4가지 버튼 이벤트
+        //내용을 수정해봅니다.
     }
 
 
